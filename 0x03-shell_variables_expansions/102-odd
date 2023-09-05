@@ -1,2 +1,2 @@
 #!/bin/bash
-perl -line 'print if $. % 2 iiiiii==1
+paste - - | cut -f1
